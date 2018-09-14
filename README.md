@@ -1,2 +1,2 @@
 # django_16_2
-learn_django
+learn_django_16
